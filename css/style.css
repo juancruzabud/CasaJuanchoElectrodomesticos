@@ -1,0 +1,308 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+#header {
+height: 25vh;
+color: #fff;
+background: rgba(0,71,158,0.8);
+/* background: linear-gradient(90deg, rgba(16,0,255,1) 4%, rgba(0,0,0,0.7287289915966386) 97%); */
+
+}
+#main {
+    height: 50%;
+    background: linear-gradient(90deg, rgba(244,107,9,0.7539390756302521) 0%, rgba(244,111,9,0.6418942577030813) 100%);
+    
+}
+.nav-link{
+
+   color: white !important; 
+}
+.BuscarDos {
+    margin-left: 80%;
+}
+
+#footer{
+height: 25vh;
+color: #fff;
+background: rgba(0,71,158,0.8);
+/* background: linear-gradient(90deg, rgba(16,0,255,1) 4%, rgba(0,0,0,0.7287289915966386) 97%); */
+}
+.d-block{
+height: 50vh;
+
+
+}
+.d-blockd{
+    width: 700px ;
+    height: 468px ;
+}
+.FiguraUno{
+    margin-left: 85%;
+    margin-right: 10px;
+}
+.FiguraTres{
+    margin-right: 10px;
+}
+.FiguraDos {
+    margin-right: 10px;
+}
+.CategiriasUno {
+    margin-top: 30px;
+    margin-left: 50px;
+    color: white;
+}
+.menu-horizontal {
+    margin-left: 50px;
+    color: white;
+    margin-top: 50px;
+}
+.CeluUno{
+    text-decoration: none;
+    color: white;
+}
+.BuscarDos {
+    color: white;
+}
+.TituloPrimero {
+    color: white;
+}
+.FormularioUno {
+    color: white;
+    margin-top: 75px;
+   margin-left: 50px;
+margin-bottom: 15px;
+}
+.NomBre {
+    margin-top: 30px;
+}
+.LogoUnos {
+    margin-top: 30px;
+    
+}
+.HistoriaUnos {
+    color: white;
+}
+ .ElectroUnos {
+    margin-left: 50%;
+    margin: 24px;
+} 
+.ParrafoDiez {
+    color: white;
+}
+.MapsUno {
+    height: 462px;
+    width: 700px;
+}
+.LogoUno {
+    margin-top: 30px;
+}
+.img-thumbnail {
+    margin: 3px;
+}
+    
+
+.LogoUnoss {
+    margin-top:30px;
+    margin-left: 11px;
+}
+
+.FiguraDoss {
+   margin-left:85% ;
+  margin-right: 10px;
+    
+}
+.FiguraS {
+    margin-right: 10px;
+}
+.FiguraD {
+    margin-right: 10px;
+}
+ .figure-caption{
+     margin: 20px; 
+    margin-left: 10px;
+    background-color: white;
+   
+}
+.figure-img {
+    margin: 20px;
+    margin-left: 15px;
+   margin-right: 50px;
+   
+}   
+.IconoUno {
+    margin-top: 80px;
+     margin-left: 150px;
+     color: white;
+ }
+     
+ .ParrafoUno {
+ margin-left: 140px;
+ color: white;
+ }
+ .ParrafoDos {
+     margin-left:  140px; ;
+     color: white;
+ } 
+ .IconoDos {
+     margin-left: 450px;
+ 
+ }
+ .ParrafoTres {
+     margin-left: 440px;
+     color: white;
+ }
+ .ParrafoCuatro {
+     margin-left: 440px;
+     color: white;
+ }
+ 
+ 
+ 
+ 
+ 
+ .IconoTres {
+     margin-left: 750px;
+ }
+ 
+ .ParrafoCinco {
+     margin-left: 750px;
+     color: white;
+ }
+ .ParrafoSeis {
+     margin-left: 720px;
+     color: white;
+ 
+ } 
+ 
+ 
+  .IconoCuatro {
+     margin-left: 1100px;
+ }
+ 
+ .ParrafoSiete { 
+     margin-left: 1040px;
+     color: white;}
+
+.LogoUno:hover {
+    transform: translate(800px);
+    transition: transform 5s; 
+    transform-origin: 10px;
+    }
+
+
+    .LogoUnoss:hover {
+        transform: translate(800px);
+        /* transform: scale(2); */
+        transition: transform 5s; 
+        transform-origin: 10px;
+        }
+        .LogoUnosss:hover {
+            transform: translate(800px);
+            /* transform: scale(2); */
+            transition: transform 5s; 
+            transform-origin: 10px;
+            }
+            .LogoUnos:hover {
+                transform: translate(800px);
+                /* transform: scale(2); */
+                transition: transform 5s; 
+                transform-origin: 10px;
+                }
+                .FiguraUno:hover {
+                    transform: scale(2);
+                    transition: transform 5s; 
+                    transform-origin: 10px;
+                    }
+                    .FiguraDoss:hover {
+                        transform: translate(200px);
+                        transform: scale(2);
+                        transition: transform 5s; 
+                        transform-origin: 10px;
+                        }
+                        .FiguraDos:hover {
+                            transform: translate(200px);
+                            transform: scale(2);
+                            transition: transform 5s; 
+                            transform-origin: 10px;
+                            }
+                            .FiguraTres:hover {
+                                transform: translate(200px);
+                                transform: scale(2);
+                                transition: transform 5s; 
+                                transform-origin: 10px;
+                                }
+                                .FiguraCuatro:hover {
+                                    transform: translate(200px);
+                                    transform: scale(2);
+                                    transition: transform 5s; 
+                                    transform-origin: 10px;
+                                    }
+                                    .FiguraS:hover {
+                                        transform: translate(200px);
+                                        transform: scale(2);
+                                        transition: transform 5s; 
+                                        transform-origin: 10px;
+                                        }
+
+@media only screen and (max-width: 576px) {
+.BuscarDos {display: none !important;} 
+.BuscarUno {display: none !important;} 
+.FiguraUno{display: none !important;}
+.FiguraDos{display: none !important;}
+.FiguraTres{display: none !important;}
+.FiguraCuatro{display: none !important;} 
+.d-blockd  
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    .BuscarDos {display: none !important;} 
+    .BuscarUno {display: none !important;} 
+    .FiguraTres{display: none !important;}
+    .FiguraCuatro{display: none !important;} 
+    .FiguraDos{display: none !important;}
+    .MapsUno {height:200px ; width:400px ;}
+}
+
+
+
+
+@media only screen and (max-width: 992px) {
+    .FiguraCuatro{display: none !important;} 
+    .BuscarDos {display: none !important;} 
+    .BuscarUno {display: none !important;} 
+    .FiguraTres{display: none !important;}
+    
+    .CategiriasUno {display: none !important;}
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    .FiguraCuatro{display: none !important;} 
+    .BuscarDos {display: none !important;} 
+    .BuscarUno {display: none !important;} 
+    .FiguraTres{display: none !important;}
+    .CategiriasUno {display: none !important;}
+    
+    
+}
+
+
+
+
+
+@media only screen and (max-width: 1400px) {
+    .BuscarDos {display: none !important;} 
+    .BuscarUno {display: none !important;} 
+    .FiguraCuatro{display: none !important;} 
+    .CategiriasUno {display: none !important;}
+    .menu-horizontal {display: none !important;}
+}
